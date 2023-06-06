@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e0xqngj8BZvdBUIixJJ2JMLWOzBwh8+hgOw71QubRnsQzyRY9faF7Z+RZRTY4/kFUxrQQi5qbF8z8lAj4+1knA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damia\\Desktop\\Filters\\Filters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\damia\\.nuget\\packages\\uaparser\\3.1.47\\uaparser.3.1.47.nupkg.sha512"
+  ],
+  "logs": []
+}
